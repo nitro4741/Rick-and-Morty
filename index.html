@@ -59,10 +59,20 @@
     </header>
     <main>
         <section class="py-5" id="characters">
-            <div class="container d-flex flex-column gap-4">
+            <div class="container d-flex flex-column gap-5">
                 <h2 class="text-center pt-3">Personajes</h2>
                 <div class="row d-flex justify-content-center g-4" id="charactersCharacters">
                 </div>
+                <nav aria-label="Paginacion">
+                  <ul class="pagination justify-content-center">
+                    <li class="page-item" >
+                      <button class="page-link bg-gradient shadow border-top text-dark" id="previousCharacters" style="background-color: #58ea27; border-radius: 1rem">Anterior</button>
+                    </li>
+                    <li class="page-item">
+                      <button class="page-link bg-gradient shadow border-top text-dark" id="nextCharacters" style="background-color: #58ea27; border-radius: 1rem;">Siguiente</button>
+                    </li>
+                  </ul>
+                </nav>
             </div>
         </section>
 
