@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Ceviche",
+        "description": " Platillo preparado con pescado crudo marinado en jugo de limón y condimentado con otros ingredientes",
+        "urlImage": "https://micevichedehoy.com/wp-content/uploads/2018/10/ceviche-carretillero_700x467-697x465.jpg",
+        "urlRecipe": "https://sibarita.pe/receta/ceviche/"
+    },
+    {
+        "id": 2,
+        "name": "Arroz con Mariscos",
+        "description": "Guiso en el que se utiliza una gran diversidad de productos del mar como camarones, trozos de pescado, pulpo, calamar, almeja, jaiba y cangrejo.",
+        "urlImage": "https://inturperu.edu.pe/wp-content/uploads/2022/03/clasicosespeciales2.jpeg",
+        "urlRecipe": "https://www.quericavida.com/recetas/arroz-con-mariscos/3d311190-be1b-4846-ab05-22ec82ee2097"
+    },
+    {
+        "id": 3,
+        "name": "Arroz con Mariscos",
+        "description": " Platillo preparado con pescado crudo marinado en jugo de limón y condimentado con otros ingredientes",
+        "urlImage": "https://tofuu.getjusto.com/orioneat-prod/JQSwS5ddkb5G7Qzks-Leche%20Tigre.jpg",
+        "urlRecipe": "https://www.ajinomoto.com.pe/receta/leche-de-tigre"
+    },
+    {
+        "id": 4,
+        "name": "Jalea mixta",
+        "description": "Este plato es una fritura picante de pescado o marisco, o ambos a la vez, que se acompaña con yucas también fritas o sancochadas y salsa criolla",
+        "urlImage": "https://tofuu.getjusto.com/orioneat-prod/XBaKSQhvFpvyuzPRS-El%20Bote%20Glovo%20Jalea-mixta%20Para%20dos.jpg",
+        "urlRecipe": "https://buenazo.pe/recetas/platos-de-fondo/jalea-mixta-ingredientes-paso-paso-116"
+    },
+    {
+        "id": 5,
+        "name": "Parihuela",
+        "description": "Una sopa típica y deliciosa de la gastronomía peruana que se prepara a base de pescados y mariscos.",
+        "urlImage": "https://www.ajinomoto.com.pe/repositorioaps/data/1/1/1/rec/parihuela/images/452.jpg",
+        "urlRecipe": "https://www.recetasderechupete.com/parihuela-sopa-de-pescado-y-marisco-peruana/23671/"
+    }
+]
+
+
